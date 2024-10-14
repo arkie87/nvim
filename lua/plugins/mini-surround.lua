@@ -1,5 +1,4 @@
 return {
-  {
     "echasnovski/mini.surround",
     opts = {
       mappings = {
@@ -8,5 +7,4 @@ return {
         replace = "sr",
       },
     },
-  },
 }
